@@ -2,7 +2,7 @@
 
 In [various][p1] [reasearchers][p2] the advantages of having a [mirror
 API][p3] to separate reflection from a language implementation have
-been discussed, and "industry grade" implementations exist for
+been discussed, and *"industry grade"* implementations exist for
 [Java][p4] and [C#][p5]. This project aims at providing a number of
 specs and classes that document a mirror API for Ruby. The mirror
 implementation that is part of this project will use only those
